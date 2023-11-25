@@ -1,9 +1,2 @@
-
-assignment1/1.csv
-assignment1/compare.py
-assignment2/pizza_train.csv
-assignment2/masked_pizza_test.csv
-assignment2/_bigram_predictions.csv
-assignment2/_rnn_predictions.csv
-assignment2/.txt
-assignment2/labels.csv
+*.csv
+*.txt
