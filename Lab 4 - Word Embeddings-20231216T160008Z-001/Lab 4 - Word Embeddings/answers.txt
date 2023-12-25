@@ -5,13 +5,13 @@ Student 2: Zeinab Moawad
 Q1:
 
 Write your answer here
-Number of vocab
+Number of vocablaury
 
 
 Q2:
 
 Write Your answer here
-Features
+Features (dim) of each word embedding
 
 
 Predicted Country:
@@ -29,7 +29,7 @@ Yes
 Q4:
 
 Type Yes or No. and the reason for your answer.
-Yes , it 's dataset
+Yes , it 's similar so similarity should closed to one
 
 
 Computed Accuracy:
@@ -44,5 +44,5 @@ Yes
 Q6:
 
 Type your answer here
-word with same meaning
+word with same meaning close to each other
 
