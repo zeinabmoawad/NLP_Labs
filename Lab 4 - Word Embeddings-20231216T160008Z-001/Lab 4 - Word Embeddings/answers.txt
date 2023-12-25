@@ -1,0 +1,48 @@
+
+Student 1: Eman Mohamed
+Student 2: Zeinab Moawad
+
+Q1:
+
+Write your answer here
+Number of vocab
+
+
+Q2:
+
+Write Your answer here
+Features
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Type Yes or No
+Yes
+
+
+Q4:
+
+Type Yes or No. and the reason for your answer.
+Yes , it 's dataset
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Type Yes or No
+Yes
+
+
+Q6:
+
+Type your answer here
+word with same meaning
+
